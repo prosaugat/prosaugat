@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my infos are available at [www.saugat.name.np](www.saugat.name.np)
 
-- 📝 I regularly write articles on [www.saugatnepal.com.np](www.saugatnepal.com.np)
+- 📝 I write on [www.saugatnepal.com.np](www.saugatnepal.com.np)
 
 - 💬 Ask me about **Networking and literature**
 
