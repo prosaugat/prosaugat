@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saugat Nepal (#prosaugat)</h1>
-<h3 align="center">Former Web Developer 🌐 & Technology Nerd. Currently in love with InfoSec 🛡 + SystemSec 🔐 and a Seasonal Writer✍.</h3>
+<h3 align="center">Former Web Developer 🌐 & Technology Nerd. Currently in love with InfoSec 🛡 + SystemSec 🔐 and a Seasonal Writer✍...</h3>
 
 <p align="left"> <a href="https://twitter.com/prosaugat" target="blank"><img src="https://img.shields.io/twitter/follow/prosaugat?logo=twitter&style=for-the-badge" alt="prosaugat" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prosaugat/](https://www.linkedin.com/in/prosaugat/)
 
-- ⚡ Fun fact **I am psycho**
+- ⚡ Fun fact **I am psycho + I love Media and Media Personalities**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
